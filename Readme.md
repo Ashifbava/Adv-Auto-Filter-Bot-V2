@@ -74,7 +74,7 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/AlbertEinsteinTG/Adv-AF-V2-Deployer">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy?template=https://github.com/Ashifbava/Adv-Auto-Filter-Bot-V2">
 </a>
 </p>
 </details>
